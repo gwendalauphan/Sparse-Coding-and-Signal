@@ -87,6 +87,6 @@ Pour une analyse détaillée, consultez le document PDF :
 
 ## Repos source
 
-Base: https://gitlab.com/science2344915/compressive_sensing/projet_cs.git
+Base: https://gitlab.com/science2344915/compressive_sensing/Sparse-Coding-and-Signal.git
 
-Mirror: https://github.com/gwendalauphan/BE_python.git
+Mirror: https://github.com/gwendalauphan/Sparse-Coding-and-Signal.git
